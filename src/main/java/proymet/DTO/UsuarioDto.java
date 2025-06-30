@@ -1,4 +1,4 @@
-package DTO;
+package proymet.DTO;
 
 import lombok.*;
 
@@ -8,7 +8,8 @@ import lombok.*;
 public class UsuarioDto {
     private String nombreCompleto;
     private String correoElectronico;
-    private int rol;
-    private int horaEntrada;
-    private int horaSalida;
+    private String rol;
+    private Number horaEntrada;
+    private Number horaSalida;
+
 }
