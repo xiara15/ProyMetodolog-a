@@ -39,6 +39,7 @@ JDBC URL: jdbc:h2:mem:testdb
 Usuario: sa
 Contraseña: (vacía)
 
+Swagger: http://localhost:8080/swagger-ui/index.html
 
 Pasos para ejecutar:
 1. Clonar repo: git clone https://github.com/<tu-usuario>/api-usuario.git
